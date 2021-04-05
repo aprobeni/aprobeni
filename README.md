@@ -1,4 +1,4 @@
-# Hi, my name is aprobeni AKA beni.
+# Hi, my name is aprobeni
 
 ### 🔆 Languages i use
 - Primary: <strong><i>Java</i></strong>
@@ -8,5 +8,5 @@
 ### 💥 Specialized in
 - Discord bots
 
-## 💬 Discord
+### 💬 My discord
 <a href="https://discord.gg/fTYAn39k3j"><p><img align="center" src="https://discord.c99.nl/widget/theme-4/458312026637336598.png" alt="aprobeni"/></a>
