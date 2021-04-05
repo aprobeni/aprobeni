@@ -1,4 +1,4 @@
-# Hi, it's me!
+# Hi, my name is aprobeni AKA beni.
 
 ### Languages i use
 - Primary: <strong><i>Java</i></strong>
