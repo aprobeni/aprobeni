@@ -4,3 +4,6 @@
 - Primary: <strong><i>Java</i></strong>
 - Secondary: <strong>C#</strong>
 - Learning: <i>Python</i>
+
+### Specialized in
+- Discord bots
