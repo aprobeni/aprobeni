@@ -1,8 +1,8 @@
-### Hi, it's me!
+# Hi, it's me!
 
-# My primary language
+### My primary language
 - Java
-# My other language
+### My other language
 - C#
-# Currently learning language
+### Currently learning language
 - Python
