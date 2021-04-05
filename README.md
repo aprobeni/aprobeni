@@ -10,4 +10,4 @@
 
 ### 💬 My discord
 - If i am online, you can message me! 😊
-<a href="https://discord.gg/fTYAn39k3j"><p><img align="center" src="https://discord.c99.nl/widget/theme-4/458312026637336598.png" alt="aprobeni"/></a>
+<a href="https://www.github.com/aprobeni"><p><img align="center" src="https://discord.c99.nl/widget/theme-4/458312026637336598.png" alt="aprobeni"/></a>
