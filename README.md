@@ -1,3 +1,3 @@
 ### Hi, it's me!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aprobeni&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="aprobeni/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aprobeni&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="aprobeni/>
