@@ -1,8 +1,6 @@
 # Hi, it's me!
 
-### My primary language
-- Java
-### My other language
-- C#
-### Currently learning language
-- Python
+### Languages i use
+Primary: <strong>Java</strong>
+Secondary: <strong>C#</strong>
+Learning: <i>Python</i>
