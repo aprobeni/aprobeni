@@ -9,7 +9,7 @@
 - Discord bots
 
 ### 💬 My discord
-- If i am online, you can message me! 😊
+- You can message me when i am online! 😊
 <a href="https://www.github.com/aprobeni"><p><img align="center" src="https://discord.c99.nl/widget/theme-4/458312026637336598.png" alt="aprobeni"/></a>
 
 ### ✨ Stats
