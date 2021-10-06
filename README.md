@@ -1,15 +1,16 @@
 # Hi, my name is aprobeni
 
-### 🔆 Languages i use
+### 🎲 Languages i use
 - Primary: <strong><i>Java</i></strong>
 - Secondary: <strong>C#</strong>
 - Learning: <i>Python</i>
 
 ### 💥 Specialized in
 - Discord bots
+- Java applications
 
 ### 💬 My discord
-- You can message me when i am online! 😊
+- You can message me when i am online!
 <a href="https://www.github.com/aprobeni"><p><img align="center" src="https://discord.c99.nl/widget/theme-4/458312026637336598.png" alt="aprobeni"/></a>
 
 ### ✨ Stats
