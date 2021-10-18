@@ -8,6 +8,7 @@
 ### 💥 Specialized in
 - Discord bots
 - Java applications
+- Unity games
 
 ### 💬 My discord
 - You can message me when i am online!
