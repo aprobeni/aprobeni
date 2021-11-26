@@ -1,9 +1,9 @@
 # Hi, my name is aprobeni
 
 ### 🎲 Languages i use
-- Primary: <strong><i>Java</i></strong>
-- Secondary: <strong>C#</strong>
-- Learning: <i>Python</i>
+- <strong>Primary and Favorite:</strong> Java
+- <strong>Using for Game Development:</strong> C#
+- <strong>Learning in school:</strong> Python
 
 ### 💥 Specialized in
 - Discord bots
