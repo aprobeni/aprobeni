@@ -1,4 +1,4 @@
-# Hi, my name is aprobeni
+# Hi, my name is aprobeni / ben aihara
 
 ### 🎲 Languages i use
 - <strong>Primary and Favorite:</strong> Java
