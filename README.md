@@ -5,11 +5,21 @@
 - <strong>Primary and Favorite:</strong> Java
 - <strong>Using for Game Development:</strong> C#
 - <strong>Learning in school:</strong> Python
+- <strong>Learning at home:</strong> Javascript
 
-### 💥 Specialized in
+### 💥 Most of my projects are
 - Discord bots
 - Java applications
 - Unity games
+- Web applications
+
+### 🦋 Best projects (private)
+- My Discord bot
+  <i>Music, Games, Utilities, Moderation</i>
+- Snake (Javascript)
+  <i>Kind of self explanatory isn't it?</i>
+- Utilities (Javascript)
+  <i>Utilities/Custom data management program</i>
 
 ### 💬 My discord
 - You can message me when i am online!
