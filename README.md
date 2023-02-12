@@ -1,4 +1,4 @@
-# Hi, my name is ben aihara i do some programming when i can
+# System.exit(-1)
 
 ### 🦋 Eclipse 
 - A Discord music bot using Slash commands!
